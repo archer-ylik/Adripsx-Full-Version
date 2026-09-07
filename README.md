@@ -236,4 +236,4 @@ This repository serves as the official landing page for AdriPSX. The software is
 **Get the most recent version of AdriPSX today!**
 
 ---
-**Last updated:** 2026-09-07 12:07:25 UTC
+**Last updated:** 2026-09-07 18:11:12 UTC
